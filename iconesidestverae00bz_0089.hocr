@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesidestverae00bz/iconesidestverae00bz_0089.png"; bbox 0 0 2215 3396; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 442 1253 1497 1440">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 442 1253 1497 1440">
+     <span class='ocr_line' id='line_1_1' title="bbox 442 1253 1497 1440; baseline 0 1956"><span class='ocrx_word' id='word_1_1' title='bbox 442 1253 1497 1440; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 258 1514 1792 1682">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 258 1514 1792 1682">
+     <span class='ocr_line' id='line_1_2' title="bbox 261 1514 1785 1591; baseline 0.001 -5"><span class='ocrx_word' id='word_1_2' title='bbox 261 1516 460 1587; x_wconf 86' lang='lat' dir='ltr'>SEX</span> <span class='ocrx_word' id='word_1_3' title='bbox 542 1517 1196 1590; x_wconf 82' lang='lat' dir='ltr'>GERMANIAE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1250 1518 1626 1591; x_wconf 66' lang='lat' dir='ltr'>EXI‘MII</span> <span class='ocrx_word' id='word_1_5' title='bbox 1780 1514 1785 1533; x_wconf 67' lang='lat'>²</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 258 1627 1792 1682; baseline 0.007 -3"><span class='ocrx_word' id='word_1_6' title='bbox 258 1627 765 1682; x_wconf 55' lang='lat' dir='ltr'>MARTYRES</span> <span class='ocrx_word' id='word_1_7' title='bbox 1788 1631 1792 1638; x_wconf 75' lang='grc'><strong>“</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

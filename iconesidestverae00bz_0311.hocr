@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesidestverae00bz/iconesidestverae00bz_0311.png"; bbox 0 0 2215 3396; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 199 466 1802 1709">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 199 466 1802 1709">
+     <span class='ocr_line' id='line_1_1' title="bbox 199 466 1802 1709; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 199 466 1802 1709; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 328 1876 1528 2151">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 328 1876 1528 2151">
+     <span class='ocr_line' id='line_1_2' title="bbox 330 1876 1422 1972; baseline -0.005 -24"><span class='ocrx_word' id='word_1_2' title='bbox 330 1883 573 1949; x_wconf 69' lang='lat' dir='ltr'><em>Niliacus</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 588 1876 1246 1972; x_wconf 61' lang='lat' dir='ltr'><em>qualisstrpensfhgientibm</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1259 1882 1422 1969; x_wconf 61' lang='grc' dir='ltr'><em>ἱνψατ,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 508 1969 1528 2062; baseline 0 -28"><span class='ocrx_word' id='word_1_5' title='bbox 508 1970 955 2062; x_wconf 58' lang='lat' dir='ltr'><em>lrgstamesfitgiens</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 973 1969 1528 2060; x_wconf 74' lang='lat' dir='ltr'><em>quanlibetanteftrox:</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 328 2058 1454 2151; baseline 0.001 -26"><span class='ocrx_word' id='word_1_7' title='bbox 328 2063 416 2126; x_wconf 71' lang='lat' dir='ltr'><em>Sic</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 427 2086 570 2124; x_wconf 71' lang='lat' dir='ltr'><em>vetus</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 588 2062 663 2123; x_wconf 85' lang='lat' dir='ltr'><em>ille</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 682 2059 996 2140; x_wconf 59' lang='lat' dir='ltr'><em>dracosteuus</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1009 2058 1286 2125; x_wconf 70' lang='lat' dir='ltr'><em>mortalibus</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1299 2061 1454 2151; x_wconf 48' lang='grc' dir='ltr'><em>ἧψά,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 495 2149 1494 2244">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 495 2149 1494 2244">
+     <span class='ocr_line' id='line_1_5' title="bbox 495 2149 1494 2244; baseline 0.002 -28"><span class='ocrx_word' id='word_1_13' title='bbox 495 2161 568 2216; x_wconf 84' lang='lat' dir='ltr'><em>Te</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 581 2154 866 2242; x_wconf 67' lang='lat' dir='ltr'><em>reprimente</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 864 2150 1068 2244; x_wconf 64' lang='lat' dir='ltr'><em>fugime</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1063 2149 1291 2242; x_wconf 67' lang='lat' dir='ltr'><em>fhgiente</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1294 2154 1494 2244; x_wconf 73' lang='lat' dir='ltr'><em>premit.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

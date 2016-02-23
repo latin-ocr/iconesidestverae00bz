@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesidestverae00bz_0031.png"; bbox 0 0 2215 3396; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 338 1099 1637 1379">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 338 1099 1637 1379">
+     <span class='ocr_line' id='line_1_1' title="bbox 338 1099 1637 1379; baseline 0 2017"><span class='ocrx_word' id='word_1_1' title='bbox 338 1099 1637 1379; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 196 1392 1836 1827">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 196 1392 1836 1824">
+     <span class='ocr_line' id='line_1_2' title="bbox 198 1392 1836 1553; baseline -0.002 -17"><span class='ocrx_word' id='word_1_2' title='bbox 198 1392 836 1548; x_wconf 77' lang='lat' dir='ltr'>PRAECIPVA</span> <span class='ocrx_word' id='word_1_3' title='bbox 917 1457 1783 1553; x_wconf 86' lang='lat' dir='ltr'>CHRISTIANISMI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1832 1456 1836 1460; x_wconf 76' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 203 1559 1784 1647; baseline -0.001 -20"><span class='ocrx_word' id='word_1_5' title='bbox 203 1575 578 1628; x_wconf 80' lang='lat' dir='ltr'>NOSTRA</span> <span class='ocrx_word' id='word_1_6' title='bbox 662 1574 1245 1647; x_wconf 82' lang='lat' dir='ltr'>PATRVMQE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1320 1559 1784 1640; x_wconf 83' lang='lat' dir='ltr'>MEMORIA,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 199 1661 1783 1771; baseline 0.001 -47"><span class='ocrx_word' id='word_1_8' title='bbox 199 1669 537 1724; x_wconf 73' lang='lat' dir='ltr'>JNTER</span> <span class='ocrx_word' id='word_1_9' title='bbox 600 1671 1109 1730; x_wconf 80' lang='lat' dir='ltr'>GERMANOS</span> <span class='ocrx_word' id='word_1_10' title='bbox 1205 1661 1783 1771; x_wconf 71' lang='lat' dir='ltr'>INSTAVRATI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 196 1769 1648 1827; baseline 0 -3"><span class='ocrx_word' id='word_1_11' title='bbox 196 1769 629 1827; x_wconf 78' lang='lat' dir='ltr'>ORGANA.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1517 1788 1527 1808; x_wconf 48' lang='grc' dir='ltr'><em>ν</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1645 1805 1648 1806; x_wconf 26' lang='lat' dir='ltr'><strong><em>f</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

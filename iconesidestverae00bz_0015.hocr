@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesidestverae00bz/iconesidestverae00bz_0015.png"; bbox 0 0 2245 3325; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 341 998 1690 1273">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 341 998 1690 1273">
+     <span class='ocr_line' id='line_1_1' title="bbox 341 998 1690 1273; baseline 0 2052"><span class='ocrx_word' id='word_1_1' title='bbox 341 998 1690 1273; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 209 1353 1800 2048">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 209 1353 1800 2048">
+     <span class='ocr_line' id='line_1_2' title="bbox 212 1353 1796 1448; baseline 0.001 -20"><span class='ocrx_word' id='word_1_2' title='bbox 212 1357 1142 1448; x_wconf 11' lang='lat' dir='ltr'>ANTESVIGNANI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1248 1353 1796 1430; x_wconf 86' lang='lat' dir='ltr'>PATRVM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 214 1481 1798 1540; baseline -0.003 -1"><span class='ocrx_word' id='word_1_4' title='bbox 214 1485 716 1540; x_wconf 77' lang='lat' dir='ltr'>MEMORIA</span> <span class='ocrx_word' id='word_1_5' title='bbox 795 1482 1470 1539; x_wconf 81' lang='lat' dir='ltr'>INSTAVRANDI</span> <span class='ocrx_word' id='word_1_6' title='bbox 1552 1481 1798 1536; x_wconf 84' lang='lat' dir='ltr'>CHRI-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 211 1584 1800 1651; baseline -0.001 -12"><span class='ocrx_word' id='word_1_7' title='bbox 211 1586 752 1642; x_wconf 81' lang='lat' dir='ltr'>sT1AN1sM1</span> <span class='ocrx_word' id='word_1_8' title='bbox 821 1586 1404 1651; x_wconf 76' lang='lat' dir='ltr'>MARTYRES,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1477 1584 1595 1638; x_wconf 86' lang='lat' dir='ltr'>EX</span> <span class='ocrx_word' id='word_1_10' title='bbox 1667 1584 1800 1638; x_wconf 83' lang='lat' dir='ltr'>DI-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 209 1689 1800 1744; baseline -0.001 0"><span class='ocrx_word' id='word_1_11' title='bbox 209 1690 874 1744; x_wconf 78' lang='lat' dir='ltr'>VERSISSIMIS</span> <span class='ocrx_word' id='word_1_12' title='bbox 982 1689 1283 1743; x_wconf 77' lang='lat' dir='ltr'>ORBIS</span> <span class='ocrx_word' id='word_1_13' title='bbox 1379 1689 1800 1742; x_wconf 82' lang='lat' dir='ltr'>TERRA-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 210 1767 1798 1857; baseline -0.001 -13"><span class='ocrx_word' id='word_1_14' title='bbox 210 1791 425 1844; x_wconf 82' lang='lat' dir='ltr'>RVM</span> <span class='ocrx_word' id='word_1_15' title='bbox 531 1767 1233 1857; x_wconf 82' lang='lat' dir='ltr'>REGIONIBVS‚</span> <span class='ocrx_word' id='word_1_16' title='bbox 1339 1791 1798 1857; x_wconf 83' lang='lat' dir='ltr'>ANGL1A‚</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 211 1890 1796 1960; baseline 0.001 -17"><span class='ocrx_word' id='word_1_17' title='bbox 211 1891 1185 1960; x_wconf 83' lang='lat' dir='ltr'>BOHEMlA,1TAL1A,</span> <span class='ocrx_word' id='word_1_18' title='bbox 1267 1890 1796 1947; x_wconf 81' lang='lat' dir='ltr'>D1v1N1Tvs</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 211 1991 652 2048; baseline 0.009 -4"><span class='ocrx_word' id='word_1_19' title='bbox 211 1991 652 2048; x_wconf 75' lang='lat' dir='ltr'>SELECTL</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesidestverae00bz_0219.png"; bbox 0 0 2215 3396; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 123 1122 1658 1367">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 123 1122 1658 1367">
+     <span class='ocr_line' id='line_1_1' title="bbox 123 1122 1658 1367; baseline 0 2029"><span class='ocrx_word' id='word_1_1' title='bbox 123 1122 1658 1367; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 116 1359 1789 1738">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 116 1359 1787 1678">
+     <span class='ocr_line' id='line_1_2' title="bbox 117 1359 1786 1515; baseline -0.001 -35"><span class='ocrx_word' id='word_1_2' title='bbox 117 1400 962 1480; x_wconf 76' lang='lat' dir='ltr'>CHRISTIANISMI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1038 1359 1202 1486; x_wconf 78' lang='grc' dir='ltr'>ΙΝ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1200 1404 1706 1508; x_wconf 74' lang='lat' dir='ltr'>ANGL1A</span> <span class='ocrx_word' id='word_1_5' title='bbox 1781 1503 1786 1515; x_wconf 11' lang='grc' dir='ltr'>ᾖ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 116 1518 1789 1585; baseline -0.002 -8"><span class='ocrx_word' id='word_1_6' title='bbox 116 1521 599 1578; x_wconf 87' lang='lat' dir='ltr'>RESTITVTI</span> <span class='ocrx_word' id='word_1_7' title='bbox 715 1521 1486 1581; x_wconf 82' lang='lat' dir='ltr'>INSTAVRATORES</span> <span class='ocrx_word' id='word_1_8' title='bbox 1582 1518 1789 1585; x_wconf 66' lang='lat' dir='ltr'>ET’F</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 118 1609 1638 1738; baseline -0.001 -66"><span class='ocrx_word' id='word_1_9' title='bbox 118 1609 651 1719; x_wconf 85' lang='lat' dir='ltr'>ASSERTORES</span> <span class='ocrx_word' id='word_1_10' title='bbox 729 1615 1548 1738; x_wconf 60' lang='lat' dir='ltr'>CONSTANTISSIMI.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1577 1620 1638 1678; x_wconf 66' lang='grc' dir='ltr'><em>ἔ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1168 1966 1511 2304">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1168 1966 1511 2304">
+     <span class='ocr_line' id='line_1_5' title="bbox 1168 1966 1511 2304; baseline 0 1092"><span class='ocrx_word' id='word_1_12' title='bbox 1168 1966 1511 2304; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

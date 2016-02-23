@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesidestverae00bz/iconesidestverae00bz_0068.png"; bbox 0 0 2215 3396; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 484 1278 1871 1555">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 484 1275 1871 1555">
+     <span class='ocr_line' id='line_1_1' title="bbox 484 1278 1852 1398; baseline 0.031 -36"><span class='ocrx_word' id='word_1_1' title='bbox 484 1278 620 1321; x_wconf 31' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_2' title='bbox 670 1318 1043 1376; x_wconf 78' lang='lat' dir='ltr'>GASPARVS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1113 1278 1396 1398; x_wconf 57' lang='lat' dir='ltr'>H&#39;EIO„</span> <span class='ocrx_word' id='word_1_4' title='bbox 1447 1322 1714 1380; x_wconf 80' lang='lat' dir='ltr'>GERMA</span> <span class='ocrx_word' id='word_1_5' title='bbox 1768 1304 1852 1323; x_wconf 46' lang='lat' dir='ltr'><em>s</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 543 1386 1871 1478; baseline 0.02 -24"><span class='ocrx_word' id='word_1_6' title='bbox 543 1395 587 1420; x_wconf 71' lang='grc'>““</span> <span class='ocrx_word' id='word_1_7' title='bbox 736 1410 908 1476; x_wconf 81' lang='lat' dir='ltr'>NVS,</span> <span class='ocrx_word' id='word_1_8' title='bbox 961 1400 1477 1478; x_wconf 77' lang='lat' dir='ltr'>ETLINGEN818‚</span> <span class='ocrx_word' id='word_1_9' title='bbox 1520 1417 1653 1469; x_wconf 83' lang='lat' dir='ltr'>AR-</span> <span class='ocrx_word' id='word_1_10' title='bbox 1787 1386 1871 1446; x_wconf 90' lang='grc' dir='ltr'><em>Μ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 836 1499 1495 1555; baseline 0.006 -3"><span class='ocrx_word' id='word_1_11' title='bbox 836 1499 1314 1555; x_wconf 81' lang='lat' dir='ltr'>GENTINENSIS</span> <span class='ocrx_word' id='word_1_12' title='bbox 1371 1500 1495 1553; x_wconf 86' lang='lat' dir='ltr'>EC-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 951 1600 1380 1674">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 951 1600 1380 1674">
+     <span class='ocr_line' id='line_1_4' title="bbox 951 1600 1380 1674; baseline 0.019 -26"><span class='ocrx_word' id='word_1_13' title='bbox 951 1600 1216 1658; x_wconf 88' lang='lat' dir='ltr'><strong>CLESIAE</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1257 1602 1380 1674; x_wconf 43' lang='lat' dir='ltr'>PAf</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 388 487 1999 2576">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 388 487 1999 2576">
+     <span class='ocr_line' id='line_1_5' title="bbox 388 487 1999 2576; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 388 487 1999 2576; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
